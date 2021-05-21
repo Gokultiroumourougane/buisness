@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+
+body{background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0.0)), url(construction2.jpeg)no-repeat;background-size:cover;}
+
+ul li{width:80px; float:right; text-align:center; background-color:blacks; opacity:0.8;
+font-family:arial; padding:7px; margin-right:4px;}
+
+ul li a{text-decoration:none;color:white;}
+
+.text{background-color:grey;}
+
+ul li:hover{background-color:grey}
+
+h3{position:absolute; left:0.5%; top:-7%; right:10%; color:white;
+font-size:70px; font-family:Times New Roman; text-transform:uppercase; text-shadow: 1px 1px 1px;}
+
+h4{position:absolute; left:0.5%; top:22%; right:10%;color:white;
+font-size:20px;font-family:verdana;}
+
+.txt{position:absolute; left:0.5%; top:30%; right:10%;color:white;font-size:20px;}
+h1{text-decoration-line:underline; text-decoration-style:line;text-decoration-color:white;}
+
+</style>
+</head>
+<body>
+
+<ul type="none">
+<li> <a href="">Contact details</a></li>
+<li> <a href="">Address</a></li>
+<li> <a href="">sites constructed</a></li>
+</ul>
+
+<h3>Tiroumourougane Constructions</h3>
+
+<h4><i>building your dreams....</i></h4>
+<div class="txt">
+<h1>leading construction venture</h1>
+We are proud to say that we are one of the successful construction firms in Pondicherry.<br> We are establishing dream homes and other dream projects of our beloved clients since 2001.<br> We are making the greatest effort to build fast and fantastic projects to ensure the client's satisfaction. 
+
+
+</body>
+</html>
